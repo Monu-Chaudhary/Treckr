@@ -15,6 +15,9 @@
 		977F66C328968F0600E96E1F /* tips.json in Resources */ = {isa = PBXBuildFile; fileRef = 977F66C128968F0600E96E1F /* tips.json */; };
 		977F66C52896C90200E96E1F /* Location.swift in Sources */ = {isa = PBXBuildFile; fileRef = 977F66C42896C90200E96E1F /* Location.swift */; };
 		977F66C72896DED100E96E1F /* Locations.swift in Sources */ = {isa = PBXBuildFile; fileRef = 977F66C62896DED100E96E1F /* Locations.swift */; };
+		977F66C9289784CF00E96E1F /* WorldView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 977F66C8289784CF00E96E1F /* WorldView.swift */; };
+		977F66CB2897994000E96E1F /* Tip.swift in Sources */ = {isa = PBXBuildFile; fileRef = 977F66CA2897994000E96E1F /* Tip.swift */; };
+		977F66CD2897999C00E96E1F /* TipsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 977F66CC2897999C00E96E1F /* TipsView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,6 +30,9 @@
 		977F66C128968F0600E96E1F /* tips.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = tips.json; sourceTree = "<group>"; };
 		977F66C42896C90200E96E1F /* Location.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Location.swift; sourceTree = "<group>"; };
 		977F66C62896DED100E96E1F /* Locations.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Locations.swift; sourceTree = "<group>"; };
+		977F66C8289784CF00E96E1F /* WorldView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WorldView.swift; sourceTree = "<group>"; };
+		977F66CA2897994000E96E1F /* Tip.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tip.swift; sourceTree = "<group>"; };
+		977F66CC2897999C00E96E1F /* TipsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TipsView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,6 +73,9 @@
 				977F66B8289687B800E96E1F /* Preview Content */,
 				977F66C42896C90200E96E1F /* Location.swift */,
 				977F66C62896DED100E96E1F /* Locations.swift */,
+				977F66C8289784CF00E96E1F /* WorldView.swift */,
+				977F66CA2897994000E96E1F /* Tip.swift */,
+				977F66CC2897999C00E96E1F /* TipsView.swift */,
 			);
 			path = Tracker;
 			sourceTree = "<group>";
@@ -153,6 +162,9 @@
 			files = (
 				977F66B5289687B700E96E1F /* ContentView.swift in Sources */,
 				977F66C52896C90200E96E1F /* Location.swift in Sources */,
+				977F66C9289784CF00E96E1F /* WorldView.swift in Sources */,
+				977F66CB2897994000E96E1F /* Tip.swift in Sources */,
+				977F66CD2897999C00E96E1F /* TipsView.swift in Sources */,
 				977F66C72896DED100E96E1F /* Locations.swift in Sources */,
 				977F66B3289687B700E96E1F /* TrackerApp.swift in Sources */,
 			);
